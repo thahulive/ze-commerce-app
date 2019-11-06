@@ -1,6 +1,6 @@
 # ze_commerce
 
-A new Flutter project.
+Complete E-Commerce solution.
 
 ## Getting Started
 
